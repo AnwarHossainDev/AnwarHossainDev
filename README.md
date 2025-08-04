@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anwar Hossain 👋</h1>
+<h1 align="center">Hi, I'm Anwar Hossain </h1>
 
 <p align="center">
 🎓 CSE Student | 💻 Full-Stack & Mobile App Developer | 🚀 Passionate Learner
@@ -27,8 +27,7 @@
 
 ### 📌 Featured Projects
 
-- 🌐 **Responsive Portfolio Website** – HTML, CSS, JavaScript  
-- 🚍 **University Bus Tracker App** – Flutter app with live location tracking  
+- 🌐 **Responsive Portfolio Website** – HTML, CSS, JavaScript    
 - 📚 **Academic Resource Management System** – Java + Oracle DB project  
 - ⚙️ **Full-Stack Web App** – Node.js + Express + React + SQL  
 
@@ -38,7 +37,7 @@
 
 - 📧 Email: md.anwarhossain38a@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/anwar-dev](https://linkedin.com/in/anwar-dev)  
-- 🌍 Location: Kishoreganj, Bangladesh  
+- 🌍 Location: Dhaka, Bangladesh  
 
 ---
 
